@@ -1,0 +1,10 @@
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.csproj.AssemblyReference.cache
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.MainForm.resources
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.Properties.Resources.resources
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.csproj.GenerateResource.cache
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.csproj.CoreCompileInputs.cache
+D:\Zona_Zoftware\chatapp\bin\Debug\chatapp.exe.config
+D:\Zona_Zoftware\chatapp\bin\Debug\chatapp.exe
+D:\Zona_Zoftware\chatapp\bin\Debug\chatapp.pdb
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.exe
+D:\Zona_Zoftware\chatapp\obj\Debug\chatapp.pdb
